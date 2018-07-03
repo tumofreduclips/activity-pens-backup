@@ -1,0 +1,10 @@
+#coords{
+    position: fixed !important;
+    top: 17px;
+    right: 10px;
+}
+#message{
+    position: fixed !important;
+    top: 34px;
+    right: 10px;
+}
